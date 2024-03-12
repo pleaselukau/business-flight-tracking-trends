@@ -5,7 +5,7 @@ This project uses machine learning to analyze corporate flight data, predicting 
 
 ## Directory Structure
 - **Data**: Contains datasets and preprocessing scripts.
-- **Code**: Source code for model training and analysis.
+- **src**: Source code for model training and analysis.
 - **Documentation**: Project documentation, including the README and report.
 - **Notebooks**: Jupyter notebooks for data exploration and model development.
 - **Results**: Output files and visualizations.
